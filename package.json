@@ -3,7 +3,7 @@
   "displayName": "Corbon",
   "description": "A clean, refined dark theme for developers.",
   "version": "0.1.0",
-  "publisher": "spideythede",
+  "publisher": "spideythedev",
   "engines": {
     "vscode": "^1.85.0"
   },
