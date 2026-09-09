@@ -4,12 +4,28 @@
   "description": "A clean, refined dark theme for developers.",
   "version": "0.1.0",
   "publisher": "spideythedev",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.85.0"
   },
   "categories": [
     "Themes"
   ],
+  "keywords": [
+    "theme",
+    "dark",
+    "corbon",
+    "developer",
+    "minimal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spideythedev/corbon-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spideythedev/corbon-vscode/issues"
+  },
+  "homepage": "https://github.com/spideythedev/corbon-vscode",
   "contributes": {
     "themes": [
       {
