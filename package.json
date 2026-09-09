@@ -1,0 +1,22 @@
+{
+  "name": "corbon",
+  "displayName": "Corbon",
+  "description": "A clean, refined dark theme for developers.",
+  "version": "0.1.0",
+  "publisher": "spideythede",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Corbon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/corbon-color-theme.json"
+      }
+    ]
+  }
+}
